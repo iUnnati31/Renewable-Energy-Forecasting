@@ -17,10 +17,6 @@
   
 # Results
   The project aims to achieve accurate predictions of renewable energy generation values, which can be used for planning and optimization purposes.
-
-# Future Improvements
-- Explore other machine learning models for comparison.
-- Fine-tune hyperparameters of the XGBoost Regressor for better performance.
   
 # Contributor
 Unnati Agarwal
